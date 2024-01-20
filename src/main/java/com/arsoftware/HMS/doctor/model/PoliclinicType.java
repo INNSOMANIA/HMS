@@ -1,0 +1,15 @@
+package com.arsoftware.HMS.doctor.model;
+
+public enum PoliclinicType {
+    URGENT,
+    EAR_NOSE_THROAT,
+    ORTHOPEDICS,
+    PSYCHOLOGIST,
+    NUTRITION_DIET,
+    GENERAL_SURGERY,
+    GYNECOLOGICAL_DISEASES,
+    INTERNAL_MEDICINE,
+    EYE_DISEASES,
+    PEDIATRY,
+    WOMAN_DISEASES
+}
